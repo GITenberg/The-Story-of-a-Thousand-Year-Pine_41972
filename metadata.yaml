@@ -1,0 +1,32 @@
+_repo: The-Story-of-a-Thousand-Year-Pine_41972
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41972-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Mills, Enos A.
+    alias: Mills, Enos Abijah
+    birthdate: 1870
+    deathdate: 1922
+    gutenberg_agent_id: '33404'
+    url: http://www.gutenberg.org/2009/agents/33404
+    wikipedia: http://en.wikipedia.org/wiki/Enos_Mills
+description: The Shelf2Life Nature Studies Collection is a grouping of pre-1923 monographs
+  focusing on the natural world and environment. Ranging from landscape surveys and
+  field guides of flora and fauna to scientific studies of botany, biology and the
+  environment.
+gutenberg_issued: '2013-02-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41972'
+  lccn: '14012822'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QK'
+- !lcsh 'Pine'
+title: The Story of a Thousand-Year Pine
+url: http://www.gutenberg.org/ebooks/41972
